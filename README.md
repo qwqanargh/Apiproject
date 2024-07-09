@@ -1,1 +1,3 @@
-# Apiproject
+Кандалов Иван
+Задание по Python
+Api
